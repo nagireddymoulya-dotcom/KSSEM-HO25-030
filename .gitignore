@@ -1,0 +1,65 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_export_environment.sh
+Generated.xcconfig
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+
+# iOS / macOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/Runner/GeneratedPluginRegistrant.*
+
+# Web
+web/.dart_tool/
+
+# Linux
+linux/flutter/ephemeral/
+linux/.dart_tool/
+
+# Windows
+windows/flutter/ephemeral/
+windows/.dart_tool/
+
+# Test
+coverage/
+
+# User-specific
+*.log
+*.tmp
+*.swp
+*.DS_Store
+*.lock
+*.bak
+
+# Gradle
+.gradle/
+.gradle-cache/
+*.class
+*.jar
+*.war
+*.ear
+
+# Other generated files
+pubspec.lock
+.env
+lib/env.dart
